@@ -1,0 +1,7 @@
+echo "*.bin
+*.elf
+*.hex
+*.map
+.vscode/
+build/
+" > .gitignore
